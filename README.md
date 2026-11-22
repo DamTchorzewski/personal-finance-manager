@@ -136,6 +136,15 @@ Commits in English. `deploy.yml` builds every push to `main` and publishes it to
 | ----------------------------------- | ------------------------------------------------------------- |
 | [docs/repository.md](docs/repository.md) | GitHub description and topics, and the command that sets them |
 
+## Versions
+
+This repository stays as the team left it; the project continues as version 2.
+
+| Version | Repository | Made by |
+| --- | --- | --- |
+| 1 (this repository) | `personal-finance-manager` | the S7ven Survivors team (see Team below) |
+| 2: Piggo | [`finance-tracker`](https://github.com/DamTchorzewski/finance-tracker) | [Damian Tchorzewski](https://github.com/DamTchorzewski) |
+
 ## Team
 
 The S7ven Survivors team; the areas are from the git history.
